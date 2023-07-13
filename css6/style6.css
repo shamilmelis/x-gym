@@ -1,0 +1,47 @@
+#body_container {
+	background: #241571;
+	background-size: cover;
+	height: auto;
+}
+
+
+
+.custom__container__header {
+	padding-top: 100px;
+}
+
+.blue__btn { 
+	width: 100px;
+	height: 45px;
+	background: #157dec;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+}
+
+
+.green__btn {
+	width: 200px;
+	height: 45px;
+	background: #03ac13;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+}
+
+.white_h1 {
+	color: #fff;
+}
+
+.white_span {
+	color: #fff;
+}
+
+
+
+#response { 
+  color: #000;
+  width: 600px;
+  height: 70px;
+}
+

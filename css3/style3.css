@@ -1,0 +1,436 @@
+.colorP {
+	color: #fff;
+}
+
+.custom_padding_none {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.goBack {
+	width: 100px;
+	height: 50px;
+	background: yellow;
+	border-radius: 99em;
+}
+
+#sheduleBg {
+	background-image: url(https://www.muscletech.com/wp-content/uploads/bg-powerful-nos-precursor.jpg);
+	background-size: cover;
+	height: auto;
+}
+
+
+.custom__header__container {
+	background: #fff;
+}
+
+
+.xGymh1 {
+	color: #fff;
+}
+
+.yellowGym1 {
+	color: #000;
+	padding: 5px 15px;
+	background: yellow;
+}
+
+.xGymP {
+	font-size: 20px;
+	color: #fff;
+    font-weight: 300;
+}
+
+.custom_container {
+	padding-top: 100px;
+}
+
+.xGymCompanies {
+	color: yellow;
+	font-weight: 500;
+}
+
+.goBack {
+	border-radius: 99em;
+	width: 100px;
+	height: 50px;
+	background: yellow;
+}
+
+#aboutBg {
+	background-image: url(https://www.catenon.com/front/img/fitness/bg-fitness-1.jpg);
+	background-size: cover;
+	height: auto;
+}
+
+
+.nav-item {
+	text-align: center;
+}
+
+.modalBtn__first {
+	width: 70px;
+	height: 70px;
+	background: #da244b;
+}
+
+.modalBtn__second {
+  width: 70px;
+  height: 70px;
+  background: #1c4966;
+}
+
+.modalBtn__third {
+	width: 70px;
+	height: 70px;
+	background: #663366;
+}
+
+.modalBtn__fourth {
+	width: 70px;
+	height: 70px;
+	background: #fff;
+	border: 1px solid black;
+}
+
+.nav-item:hover {
+  background: #fcff18;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.custom-header-nav {
+	max-width: 100%;
+}
+
+.custon-header-bg {
+	background-image: url('../img/hero-bg.jpg');
+	height: 80vh;
+	background-size: cover;
+	background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+
+.nav-item {
+	font-weight: 900;
+	color: #fcff18;
+}
+
+.yellowXNav {
+	background: #fcff18;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.locationLogo {
+	max-width: 100%;
+	padding-left: 20px;
+}
+
+.locationAdress {
+	font-size: 18px;
+	font-weight: bold;
+	max-width: 100%;
+}
+
+
+
+.generalHeaderText {
+	font-size: auto;
+	text-align: center;
+	max-width: 100%;
+	color: #fff;
+}
+
+.yellowGeneralText {
+	color: #fcff18;
+}
+
+.headerBtn {
+	max-width: 100%;
+	font-size: 16px;
+	font-weight: bold;
+	width: 130px;
+	height: 50px;
+	cursor: pointer;
+	background: #fcff18;
+	border: none;
+}
+
+.generalSHeaderText {
+	text-align: center;
+	font-size: auto;
+	font-weight: bold;
+}
+
+.yellowSGeneralText {
+	background: #fcff18;
+}
+
+.icons {
+	border: 2px solid #fcff18;
+	background: gainsboro;
+	border-radius: 99em;
+	max-width: 38%;
+	transition: 0.8s;
+}
+
+.icons:hover {
+	background: #fcff18;
+	cursor: pointer;
+	transition: 0.8s;
+}
+
+.iconsLast {
+	border: 2px solid #fcff18;
+	background: gainsboro;
+	border-radius: 99em;
+	max-width: 38%;
+	transition: 0.8s;
+}
+
+.iconsLast:hover {
+	background: #fcff18;
+	cursor: pointer;
+	transition: 0.8s;
+}
+
+.iconsLast {
+	padding: 10px;
+}
+
+.iconsLorem {
+	font-size: auto;
+	text-align: center;
+	font-weight: bold;
+}
+
+.iconsParagraphLorem {
+	font-size: auto;
+	text-align: center;
+	font-weight: 500;
+}
+
+.DiscountContainer {
+	font-size: auto;
+	font-weight: bold;
+	color: #fff;
+}
+
+.DiscountYellowContainer {
+	color: #fcff18;
+	font-weight: 700;
+}
+
+.checkerLorem {
+	font-size: 30;
+	color: #fff;
+	font-weight: 400;
+}
+
+.checkerLorem::before {
+	font-family: 'Font Awesome 5 Free';
+	content: "\f058";
+	color: #000;
+	background-color: #fcff18;
+	font-size: 25px;
+	border-radius: 99em;
+}
+
+.bodyBtn {
+	width: 170px;
+	height: 50px;
+	font-weight: bold;
+	background: #fcff18;
+	border: none;
+  cursor: pointer;
+}
+
+
+.numbersOfCLients {
+ text-align: center;
+ font-size: 30px;
+ font-family: 'PT Sans Narrow', sans-serif;
+ font-weight: 700;
+}
+
+.yellowOfNumbers {
+	background: #fcff18;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.loremOfClients {
+	text-align: center;
+	font-size: 14px;
+	font-family: 'PT Sans Narrow', sans-serif;;
+}
+
+.loremTrainers {
+	font-size: auto;
+	text-align: center;
+	font-weight: 600;
+}
+
+.yellowTrainers {
+	background: #fcff18;
+}
+
+.trainersBorderRadius {
+	border-radius: 99em;
+	max-width: 100%;
+}
+
+.johnDoeTrainer {
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.loremTrainersS {
+	text-align: center;
+	font-weight: 500;
+	font-size: 16px;
+}
+
+.footerNav {
+	padding-left: 10px;
+	font-size: 25px;
+	color: #fff;
+}
+
+.footerIcons1 {
+	background: yellow;
+	border-radius: 99em;
+	width: 25px;
+}
+
+.footerIcons {
+  background: gainsboro;
+  border-radius: 99em;
+}
+
+.footerP {
+	padding-left: 10px;
+	color: grey;
+	font-size: 15px;
+}
+
+#custom__background {
+	background: #e8ebec;
+
+}
+
+.add-bg {
+	max-width: 200%;
+	padding: 0;
+}
+
+.custom-bg  {
+	background-image: url('../img/add-bg.jpg');
+	height: 70vh;
+	background-size: cover;
+}
+
+.custom-f-bg {
+	background-image: url('../img/hero-bg.jpg');
+	max-width: 210vh;
+	max-height: 100%;
+	background-size: cover;
+}
+
+.custom-container-last {
+	max-width: 100%;
+	padding-top: 50px;
+}
+
+.custom-adress-bg {
+	background: #fcff18;
+	max-width: 100%;
+}
+
+.custom-background-discount {
+	background-image: url('../img/add-bg.jpg');
+	background-size: cover;
+	height: 80vh;
+}
+
+.custom-item {
+	height: 70vh;
+	align-items: center;
+}
+
+.custom-discount-p {
+	padding-left: 15px;
+}
+
+.custom-container-5 {
+	padding-top: 5%;
+  
+}
+
+
+#pay {
+	background: url('../img/add-bg.jpg');
+	height: auto;
+	background-size: cover;
+	color: #fff;
+}
+
+.pay__item {
+	height: 80vh;
+	align-items: center;
+
+}
+
+#pay_second {
+	padding-top: 400px;
+	height: auto;
+	background-size: cover;
+}
+
+#main {
+	padding-bottom: 50px;
+}
+
+#footer_second {
+	padding-top: 50px;
+	padding-bottom: 150px;
+}
+
+ .color > span {
+    display: inline-block;
+  height: 50px;
+  width: 50px;
+  cursor: pointer;
+}
+
+.color > #red {
+  background-color: red;
+}
+
+.color > #blue {
+  background-color: blue;
+}
+
+.color > #yellow {
+  background-color: yellow;
+}
+
+
+.custom_footer_text_align {
+	text-align: center;
+}
+
+.selectFunction {
+	width: 70px;
+	height: 50px;
+}
+
+.custom-container-last {
+	text-align: center;
+}
